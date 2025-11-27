@@ -11,4 +11,6 @@
 9. HarpyModLoader - [[Modrinth]](https://modrinth.com/mod/harpymodloader) [[Source]](https://github.com/agmass/HarpyModLoader)
     - Loads modded roles and adds some clientside QOL changes
 11. Ghosts of Christmas Past - [[GitHub Releases]](https://github.com/ekulxam/tmm-haunting/releases) [[Source]](https://github.com/ekulxam/tmm-haunting)
-    - Allows the killer to hear spectators so spectators can now "haunt" the killer
+    - Allows the killer to hear spectators so spectators can now "haunt" the killer, and allows spectators to toggle TMM light blocks
+12. TMM Conductor - [[GitHub Releases]](https://github.com/ekulxam/TMM-conductor/releases) [[Source]](https://github.com/ekulxam/TMM-conductor)
+    - Adds a Conductor role with a broadcast block that allows the conductor to send SVC messages to everyone across the train
